@@ -2,6 +2,9 @@ body{
     background-color: black;
     color:white;
     text-align: center;
+}
+
+.txtc{
     margin-left: 20%;
     margin-right: 20%;
 }
