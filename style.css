@@ -1,13 +1,16 @@
 body{
     background-color: black;
     color:white;
-    margin-left: 60px;
-}
-
-hr{
-    margin-left: 0;
 }
 
 .textc{
     text-align: center;
+}
+
+h1{
+    margin-left: 60px;
+}
+
+h2{
+    font-size: 150%;
 }
