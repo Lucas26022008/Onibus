@@ -4,7 +4,9 @@ body{
     margin-left: 60px;
 }
 
-
+hr{
+    margin-left: 0px;
+}
 
 .textc{
     text-align: center;
